@@ -2,7 +2,7 @@
 Free Multi Predictor
 
 # Downalod?
-Just download loader from relese and have fun :3
+Just download it and have fun :3
 
 # What in ther?
 1.Color Picker
